@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=DC_DC_10-40V_8A New Net Name=DC-DC_10-40V_8A
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component Power XT30
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component Rfb2 75k
