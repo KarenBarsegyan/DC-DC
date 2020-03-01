@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Vin Pin=Power-1
+Removed Pin From Net: NetName=GND Pin=Power-2
+Removed Pin From Net: NetName=GND Pin=Power-A
+Removed Pin From Net: NetName=GND Pin=Power-A
+Removed Member From Class: ClassName=DC-DC_10-40V_8A Member=Power
+Added Component: Designator=Vin(HEADER 2 XT30U)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliExpress"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.aliexpress.com/item/4000070113352.html?spm=a2g0o.productlist.0.0.39dd34bfyYuspa&algo_pvid=4d7d83f5-6270-4220-b100-9b5f13b0846d&algo_expid=4d7d83f5-6270-4220-b100-9b5f13b0846d-3&btsid=c67bc929-e3be-4af3-9fd9-25ac13ce4818&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XT30U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=Vout(HEADER 2 XT30U)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliExpress"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.aliexpress.com/item/4000070113352.html?spm=a2g0o.productlist.0.0.39dd34bfyYuspa&algo_pvid=4d7d83f5-6270-4220-b100-9b5f13b0846d&algo_expid=4d7d83f5-6270-4220-b100-9b5f13b0846d-3&btsid=c67bc929-e3be-4af3-9fd9-25ac13ce4818&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XT30U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=Vin-1
+Added Pin To Net: NetName=GND Pin=Vin-2
+Added Pin To Net: NetName=+5V Pin=Vout-1
+Added Pin To Net: NetName=GND Pin=Vout-2
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component Vin Conn2x1
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component Vout Conn2x1

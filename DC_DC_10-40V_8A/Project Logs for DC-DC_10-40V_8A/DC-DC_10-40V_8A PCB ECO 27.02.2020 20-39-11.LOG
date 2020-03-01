@@ -1,0 +1,17 @@
+Change Physical Footprint: Designator=Cbst Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=Cbyp Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=Cff Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=Cin Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=Cout Old Footprint=Bar Cap 6.3x7.7 New Footprint=Bar Cap 6.3x7.7
+Change Physical Footprint: Designator=Css Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=Cvcc Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=D1 Old Footprint=SMB New Footprint=SMB
+Change Physical Footprint: Designator=L1 Old Footprint=Inductor 12.8 x 12.8 x 8.0 New Footprint=Inductor 12.8 x 12.8 x 8.0
+Change Physical Footprint: Designator=Power Old Footprint=HEADER 2 XT30PW New Footprint=HEADER 2 XT30PW
+Change Physical Footprint: Designator=QH Old Footprint=VSON New Footprint=VSON
+Change Physical Footprint: Designator=QL Old Footprint=VSON New Footprint=VSON
+Change Physical Footprint: Designator=Rfb1 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=Rfb2 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=Rilim Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=Ron Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=U1 Old Footprint=HTSSOP-14 New Footprint=HTSSOP-14

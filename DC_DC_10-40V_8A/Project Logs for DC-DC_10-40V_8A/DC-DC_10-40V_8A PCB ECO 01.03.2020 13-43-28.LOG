@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetCss_2 Pin=OUTPUT-2
+Added Pin To Net: NetName=+5V Pin=OUTPUT-1
+Added Pin To Net: NetName=GND Pin=OUTPUT-2
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component OUTPUT XT30

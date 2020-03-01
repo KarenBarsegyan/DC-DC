@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:07:53 On 23.02.2020
+
+Output: Orcad v7 Capture Design (AutoSCH)
+Type  : Exporter Wrapper
+From  : Schematic Document [DC-DC_10-40V_8A.SchDoc]
+   Generated File[DC-DC_10-40V_8A.dsn]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:07:57 On 23.02.2020

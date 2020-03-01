@@ -1,0 +1,28 @@
+Added Component: Designator=QH(VSON)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/csd19534q5a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/csd19534q5at"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=QL(VSON)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/csd19534q5a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/csd19534q5at"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQH_1 Pin=QH-1
+Added Pin To Net: NetName=Vin Pin=QH-2
+Added Pin To Net: NetName=NetCbst_1 Pin=QH-3
+Added Pin To Net: NetName=NetCbst_1 Pin=QH-3
+Added Pin To Net: NetName=NetCbst_1 Pin=QH-3
+Added Pin To Net: NetName=NetQL_1 Pin=QL-1
+Added Pin To Net: NetName=NetCbst_1 Pin=QL-2
+Added Pin To Net: NetName=GND Pin=QL-3
+Added Pin To Net: NetName=GND Pin=QL-3
+Added Pin To Net: NetName=GND Pin=QL-3
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component QH MOSFET-N
+Added Member To Class: ClassName=DC-DC_10-40V_8A Member=Component QL MOSFET-N
