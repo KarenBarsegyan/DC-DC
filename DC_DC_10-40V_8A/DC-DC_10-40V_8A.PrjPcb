@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=8E8FC2B9-0812-41CE-81C5-4A4E59CDCC01
+VaultGUID=B2B939BD-5FE1-4AC5-8434-5D64BAADC712
+ReleaseVaultName=Bauman Racing Team
+ItemGUID=8E8FC2B9-0812-41CE-81C5-4A4E59CDCC01
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -298,7 +301,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon MF4400 Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
